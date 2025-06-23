@@ -3,11 +3,11 @@
 ## Objective
 
 
-The LimaCharlie Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to show the installation process with powershell and cmd commands of the LimaCharlie Sensor within a Endpoint Detection and Response (EDR) system, generating test telemetry to mimic real-world attack scenarios. 
+The LimaCharlie Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to show the installation process with powershell and cmd commands of the LimaCharlie Sensor on an Endpoint, generating test telemetry to mimic real-world attack scenarios. 
 
 ### Skills Learned
 
-- Advanced understanding of EDR concepts and practical application.
+- Advanced understanding of EDR concepts and installation.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
