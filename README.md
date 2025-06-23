@@ -21,3 +21,7 @@ The LimaCharlie Lab project aimed to establish a controlled environment for simu
 
 ## Steps
 
+![Image Alt](https://github.com/PrivSecLabs/LimaCharlieLab/blob/main/REF%201%20LIMA.png?raw=true)
+![Image Alt](https://github.com/PrivSecLabs/LimaCharlieLab/blob/main/REF%202%20LIMA.png?raw=true)
+![Image Alt](https://github.com/PrivSecLabs/LimaCharlieLab/blob/main/REF%203%20LIMA.png?raw=true)
+![Image Alt](https://github.com/PrivSecLabs/LimaCharlieLab/blob/main/REF%204%20LIMA.png?raw=true)
